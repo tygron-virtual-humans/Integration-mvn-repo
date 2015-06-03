@@ -4,8 +4,8 @@
   <artifactId>mentalstateinterface</artifactId>
   <versioning>
     <versions>
-      <version>1.3.7-SNAPSHOT</version>
+      <version>1.3.8-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150511220332</lastUpdated>
+    <lastUpdated>20150603082333</lastUpdated>
   </versioning>
 </metadata>
